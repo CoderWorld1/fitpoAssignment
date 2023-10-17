@@ -143,62 +143,62 @@ export default function App() {
 
                   <div className='flex flex-wrap  justify-between'>
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart1 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart1 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Jan</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart2 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart2 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Fev</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart3 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart3 bg-slate-200 rounded-3xl border-current'></div>
                       <div>March</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart4 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart4 bg-slate-200 rounded-3xl border-current'></div>
                       <div>April</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart5 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart5 bg-slate-200 rounded-3xl border-current'></div>
                       <div>May</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart6 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart6 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Jun</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart7 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart7 bg-slate-200 rounded-3xl border-current'></div>
                       <div>July</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart8 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart8 bg-blue-600 rounded-3xl border-current'></div>
                       <div>Aug</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart9 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart9 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Sep</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart10 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart10 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Oct</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart11 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart11 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Nov</div>
                     </div>
 
                     <div className='flex flex-col flex-wrap items-center'>
-                      <div className='chart12 bg-blue-200 rounded-3xl border-current'></div>
+                      <div className='chart12 bg-slate-200 rounded-3xl border-current'></div>
                       <div>Dec</div>
                     </div>
                   </div>
